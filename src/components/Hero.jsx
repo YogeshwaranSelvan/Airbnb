@@ -12,3 +12,5 @@ export const Hero = () => {
     </section>
   );
 };
+
+// Hero.jsx
